@@ -1,0 +1,25 @@
+{
+  "name": "takePictures",
+  "version": "1.0.0",
+  "description": "get online pictures with nodejs and cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keep-alive/takePictures.git"
+  },
+  "keywords": [],
+  "author": "zhangtianwen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keep-alive/takePictures/issues"
+  },
+  "homepage": "https://github.com/keep-alive/takePictures#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}
